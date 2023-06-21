@@ -1,0 +1,1 @@
+data:text/html, %3Cscript%3Eonload%3Dclose%3C/script%3E
